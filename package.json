@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-thou-shalt-not",
+  "version": "0.0.1",
+  "description": "eslint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "configuration",
+    "rules"
+  ],
+  "author": "Nicolas Barbotte <nicolas@barbotte.net> (http://barbotte.net/)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^1.1.0",
+    "eslint-config-angular": "^0.2.0",
+    "eslint-plugin-angular": "^0.3.1"
+  }
+}

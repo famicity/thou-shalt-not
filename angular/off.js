@@ -1,0 +1,43 @@
+'use strict';
+
+module.exports = {
+  rules: {
+    'angular/ng_angularelement': 0,
+    'angular/ng_controller_as': 0,
+    'angular/ng_controller_as_route': 0,
+    'angular/ng_controller_as_vm': 0,
+    'angular/ng_controller_name': 0,
+    'angular/ng_deferred': 0,
+    'angular/ng_definedundefined': 0,
+    'angular/ng_di': 0,
+    'angular/ng_directive_name': 0,
+    'angular/ng_document_service': 0,
+    'angular/ng_empty_controller': 0,
+    'angular/ng_foreach': 0,
+    'angular/ng_filter_name': 0,
+    'angular/ng_function_type': 0,
+    'angular/ng_interval_service': 0,
+    'angular/ng_json_functions': 0,
+    'angular/ng_module_getter': 0,
+    'angular/ng_module_name': 0,
+    'angular/ng_module_setter': 0,
+    'angular/ng_no_angular_mock': 0,
+    'angular/ng_no_cookiestore': 0,
+    'angular/ng_no_digest': 0,
+    'angular/ng_no_jquery_angularelement': 0,
+    'angular/ng_no_private_call': 0,
+    'angular/ng_no_services': 0,
+    'angular/ng_no_service_method': 0,
+    'angular/ng_on_watch': 0,
+    'angular/ng_service_name': 0,
+    'angular/ng_timeout_service': 0,
+    'angular/ng_typecheck_array': 0,
+    'angular/ng_typecheck_date': 0,
+    'angular/ng_typecheck_function': 0,
+    'angular/ng_typecheck_number': 0,
+    'angular/ng_typecheck_object': 0,
+    'angular/ng_typecheck_regexp': 0,
+    'angular/ng_typecheck_string': 0,
+    'angular/ng_window_service': 0
+  }
+};

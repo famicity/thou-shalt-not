@@ -14,8 +14,5 @@
   "author": "Nicolas Barbotte <nicolas@barbotte.net> (http://barbotte.net/)",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^1.1.0",
-    "eslint-config-angular": "^0.2.0",
-    "eslint-plugin-angular": "^0.3.1"
   }
 }

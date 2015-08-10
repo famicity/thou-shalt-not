@@ -36,5 +36,5 @@ module.exports = {
     jsx: false,
     experimentalObjectRestSpread: false
   },
-  extends: ['../thou-shalt-not']
+  extends: ['thou-shalt-not']
 };

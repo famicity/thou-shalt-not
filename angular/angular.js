@@ -9,5 +9,5 @@ module.exports = {
     'angular/ng_window_service': 1,
     'angular/ng_document_service': 1
   },
-  extends: ['../thou-shalt-not', 'angular']
+  extends: ['thou-shalt-not', 'angular']
 };

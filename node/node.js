@@ -8,5 +8,5 @@ module.exports = {
     browser: false,
     node: true
   },
-  extends: ['../thou-shalt-not']
+  extends: ['thou-shalt-not']
 };

@@ -6,7 +6,7 @@
 
 `thou-shalt-not` is a set of eslint configurations. Available configurations are:
 
-- es5: `thou-shalt-not`
+- es5: `thou-shalt-not`, `thou-shalt-not/strict`
 - es6: `thou-shalt-not/es6`, `thou-shalt-not/es6/strict`
 - nodejs: `thou-shalt-not/node`
 - angular: `thou-shalt-not/angular`, `thou-shalt-not/angular/strict`

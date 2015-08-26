@@ -16,7 +16,7 @@ The `strict` modules should be used for new projects.
 ## Thou shalt install
 
 ```
-npm i git+ssh://git@git.famicity.com:nbarbotte/thou-shalt-not.git --save-dev
+npm i git+ssh://git@github.com:famicity/thou-shalt-not.git --save-dev
 ```
 
 And, for angular projects:

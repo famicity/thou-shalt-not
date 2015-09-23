@@ -34,7 +34,7 @@ module.exports = {
     'default-case': 2,
     'dot-notation': 1,
     'dot-location': [2, 'property'],
-    eqeqeq: 2,
+    'eqeqeq': [2, 'smart'],
     'guard-for-in': 2,
     'no-alert': 2,
     'no-caller': 2,

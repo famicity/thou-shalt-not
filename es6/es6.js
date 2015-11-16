@@ -2,8 +2,8 @@
 
 module.exports = {
   rules: {
-    'no-var': 1,
-    'prefer-const': 1,
+    'no-var': 2,
+    'prefer-const': 2,
     'prefer-spread': 1,
     'object-shorthand': 1
   },

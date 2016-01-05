@@ -18,7 +18,9 @@ module.exports = {
     'angular/deferred': 1,
     'angular/function-type': [1, 'named'],
     'angular/no-controller': 1,
-    'angular/controller-as-vm': 0
+    'angular/controller-as-vm': 0,
+    'angular/no-service-method': 0,
+    'angular/definedundefined': 1
   },
   extends: ['thou-shalt-not', 'angular']
 };

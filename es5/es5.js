@@ -51,7 +51,6 @@ module.exports = {
     'no-implied-eval': 2,
     'no-invalid-this': 2,
     'no-iterator': 2,
-    'no-labels': 2,
     'no-lone-blocks': 2,
     'no-loop-func': 2,
     'no-multi-spaces': 2,
@@ -144,7 +143,7 @@ module.exports = {
       after: true
     }],
     semi: [2, 'always'],
-    'keyword-spacing': [2, {before: true, after: true}]
+    'keyword-spacing': [2, {before: true, after: true}],
     'space-before-blocks': [2, 'always'],
     'space-before-function-paren': [2, {
       anonymous: 'never',

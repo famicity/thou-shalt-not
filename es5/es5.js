@@ -163,7 +163,10 @@ module.exports = {
     'generator-star-spacing': [2, 'before'],
     'no-class-assign': 2,
     'no-const-assign': 2,
-    'no-this-before-super': 2
+    'no-this-before-super': 2,
+    'no-console': 2,
+    'no-empty': 2,
+    'valid-jsdoc': 2
   },
   env: {
     es6: false,

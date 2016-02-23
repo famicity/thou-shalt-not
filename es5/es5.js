@@ -40,7 +40,7 @@ module.exports = {
     'no-caller': 2,
     'no-div-regex': 2,
     'no-else-return': 1,
-    'no-empty-label': 2,
+    'no-labels': 2,
     'no-eq-null': 1,
     'no-eval': 2,
     'no-extend-native': 2,
@@ -144,7 +144,7 @@ module.exports = {
       after: true
     }],
     semi: [2, 'always'],
-    'space-after-keywords': [2, 'always'],
+    'keyword-spacing': [2, {before: true, after: true}]
     'space-before-blocks': [2, 'always'],
     'space-before-function-paren': [2, {
       anonymous: 'never',
@@ -152,7 +152,6 @@ module.exports = {
     }],
     'space-in-parens': [2, 'never'],
     'space-infix-ops': 2,
-    'space-return-throw-case': 2,
     'space-unary-ops': 2,
     'spaced-comment': [1, 'always'],
     'arrow-spacing': [2, {
@@ -166,7 +165,7 @@ module.exports = {
     'no-this-before-super': 2,
     'no-console': 2,
     'no-empty': 2,
-    'valid-jsdoc': 2
+    'valid-jsdoc': 1
   },
   env: {
     es6: false,

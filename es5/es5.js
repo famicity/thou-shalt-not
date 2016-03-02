@@ -164,7 +164,9 @@ module.exports = {
     'no-this-before-super': 2,
     'no-console': 2,
     'no-empty': 2,
-    'valid-jsdoc': 1
+    'valid-jsdoc': [1, {
+      requireReturn: false
+    }]
   },
   env: {
     es6: false,
